@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mbb-mod:dark_oak_leaves_btn"
+        }
+      ]
+    }
+  ]
+}
+    

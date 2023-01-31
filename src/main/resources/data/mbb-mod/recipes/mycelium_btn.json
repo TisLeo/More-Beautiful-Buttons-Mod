@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mbb-mod:button_press"
+    },
+    {
+      "item": "minecraft:mycelium"
+    }
+  ],
+  "result": {
+    "item": "mbb-mod:mycelium_btn",
+    "count": 1
+  }
+}
+    

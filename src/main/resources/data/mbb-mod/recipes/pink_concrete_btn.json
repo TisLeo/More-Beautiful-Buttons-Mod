@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mbb-mod:button_press"
+    },
+    {
+      "item": "minecraft:pink_concrete"
+    }
+  ],
+  "result": {
+    "item": "mbb-mod:pink_concrete_btn",
+    "count": 1
+  }
+}
+    

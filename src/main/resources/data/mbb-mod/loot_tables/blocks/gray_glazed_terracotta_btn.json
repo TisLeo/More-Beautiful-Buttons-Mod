@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mbb-mod:gray_glazed_terracotta_btn"
+        }
+      ]
+    }
+  ]
+}
+    

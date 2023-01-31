@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mbb-mod:emerald_block_btn"
+        }
+      ]
+    }
+  ]
+}
+    

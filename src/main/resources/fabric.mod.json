@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "mbb-mod",
+  "version": "${version}",
+
+  "name": "More Beautiful Buttons",
+  "description": "Vanilla blocks craftable into buttons!",
+  "authors": [
+    "TisLeo"
+  ],
+  "contact": {
+    "homepage": "https://discord.gg/yx3gkv6Why",
+    "sources": "https://github.com/TisLeo/More-Beautiful-Buttons"
+  },
+
+  "license": "MIT",
+  "icon": "assets/mbb-mod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.tisleo.morebeautifulbuttons.MoreBeautifulButtons"
+    ]
+  },
+  "mixins": [
+    "mbb-mod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

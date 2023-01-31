@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mbb-mod:button_press"
+    },
+    {
+      "item": "minecraft:cyan_stained_glass"
+    }
+  ],
+  "result": {
+    "item": "mbb-mod:cyan_stained_glass_btn",
+    "count": 1
+  }
+}
+    

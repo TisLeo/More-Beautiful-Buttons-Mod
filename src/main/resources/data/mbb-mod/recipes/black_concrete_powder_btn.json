@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mbb-mod:button_press"
+    },
+    {
+      "item": "minecraft:black_concrete_powder"
+    }
+  ],
+  "result": {
+    "item": "mbb-mod:black_concrete_powder_btn",
+    "count": 1
+  }
+}
+    
